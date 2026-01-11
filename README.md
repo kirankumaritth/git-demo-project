@@ -12,3 +12,6 @@ This change comes from branch B.
 This is from Branch-A
 
 This change was made directly on GitHub.
+
+## Feature Branch Update
+This change follows the GitHub feature branch workflow.
